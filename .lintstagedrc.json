@@ -1,0 +1,3 @@
+{
+  "*.ts?(x)": ["eslind --fix", "pretier --write"]
+}
